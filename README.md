@@ -1,2 +1,3 @@
 # Exploratory-Data-Analysis-On-Iris
-A menu Driven Program which gives Statistical Information On Iris Dataset
+A menu Driven Program which gives Statistical Information On Iris Dataset<br>
+Keep iris.csv and EDAonIris.py in same folder or change location access on line 7 pd.read_csv(".../iris.csv)....
